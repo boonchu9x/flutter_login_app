@@ -1,6 +1,12 @@
-# flutterloginapp
+# Flutter Login App
 
-A new Flutter application.
+Login screen app with animation follow design:
+
+![Image of App](assets/images/one.png)
+
+
+Link Youtube: (https://www.youtube.com/watch?v=FTz6TVcdh7Y&feature=youtu.be)
+
 
 ## Getting Started
 
